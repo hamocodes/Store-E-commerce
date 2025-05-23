@@ -1,5 +1,7 @@
 <h1 align="center">Store E-Commerce 🛒</h1>
-🔧 Features & Integrations
+
+
+<h3>🔧 Features & Integrations</h3>
 💳 Stripe Payment Integration – Seamless and secure checkout experience
 
 🔐 Authentication System – Secure user login & signup with JWT
